@@ -1,8 +1,6 @@
 # codecompleteneu
 akindurak_website
 
-akindurak_website
-
 Rechtlicher Hinweis – Schutz des Quellcodes
 
 Der auf dieser Website implementierte Quellcode (einschließlich aller Skripte, Funktionen, Bibliotheken-Anpassungen, Strukturen und technischen Umsetzungen) ist urheberrechtlich geschützt und steht im ausschließlichen Eigentum des Betreibers. Der Code wurde individuell entwickelt und gegen Entgelt lizenziert. Eine Nutzung außerhalb dieser Website ist nicht gestattet.
