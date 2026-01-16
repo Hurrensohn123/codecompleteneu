@@ -28,9 +28,7 @@ function initCircularPopupSlider() {
     const galleryContainer = document.querySelector(".gallery-container");
     const titleContainer = document.querySelector(".title-container");
     const introText = document.querySelector(".intro-text");
-    const popup =
-      document.querySelector(".popup-wrapper_content-4") ||
-      document.querySelector(".popup-wrapper-4");
+    const popup = document.querySelector(".popup-wrapper-4");
 
     if (!gallery || !galleryContainer || !popup) return;
 
